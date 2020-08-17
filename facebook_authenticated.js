@@ -32,28 +32,6 @@ class FbAuthenticated{
 }
 
 
-// export default function (initOptions){
-//   return new FbAuthenticated(initOptions);
-// }
-
-
-
-function fb(initOptions){
-    return new FbAuthenticated(initOptions);
-  }
-
-const fcb = fb( {
-  appId: "723043924937302",
-  cookie: true,
-  version: "v7.0"
-})
-
-fcb.init();
-
-
-
-
-document.getElementById('btn').addEventListener('click', async ()=> {
-  const ddd = await fcb.logInWithFacebook();
-  console.log(ddd);  
-});
+export default function (initOptions){
+  return new FbAuthenticated(initOptions);
+}

@@ -21,7 +21,7 @@ Options:
   version: "v7.0"
 }
 // example
-import facebookLogin from "facebooklogin";
+import facebookLogin from "facebookloginlibrary";
 
 const fcb = facebookLogin({
   appId: "your-app-id",
@@ -40,7 +40,7 @@ document.getElementById('facebook-button').addEventListener('click', async ()=> 
 In Vue.js:
 ```js
 <script>
-  import facebookLogin from "facebooklogin";
+  import facebookLogin from "facebookloginlibrary";
 
   export default {
     name: "App",

@@ -1,6 +1,6 @@
 {
   "name": "facebookloginlibrary",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Facebook login library",
   "main": "facebook_authenticated.js",
   "keywords": [

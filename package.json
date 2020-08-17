@@ -1,0 +1,13 @@
+{
+  "name": "facebookLogin",
+  "version": "1.0.0",
+  "description": "Facebook login library",
+  "main": "facebook_authenticated.js",
+  "keywords": [
+    "facebook",
+    "facebook login",
+    "facebook api"
+  ],
+  "author": "Denis Fedorovici <denfedweb@mail.ru>",
+  "license": "MIT"
+}

@@ -1,5 +1,5 @@
 {
-  "name": "facebookLogin",
+  "name": "facebooklogin",
   "version": "1.0.0",
   "description": "Facebook login library",
   "main": "facebook_authenticated.js",

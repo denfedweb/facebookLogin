@@ -1,9 +1,9 @@
 {
   "name": "facebookloginlibrary",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Facebook login library",
   "main": "facebook_authenticated.js",
-  "home": "https://github.com/denfedweb/facebookLogin",
+  "homepage": "https://github.com/denfedweb/facebookLogin",
   "keywords": [
     "facebook",
     "facebook login",

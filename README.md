@@ -5,12 +5,12 @@
 Using npm:
 ```shell
 $ npm i -g npm
-$ npm i --save facebookLogin
+$ npm i --save facebookloginlibrary
 ```
 
 Using yarn: 
 ```shell
-$ yarn add facebookLogin
+$ yarn add facebookloginlibrary
 ```
 
 Options: 
